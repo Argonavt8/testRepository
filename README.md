@@ -23,3 +23,4 @@ we're inviting you to share your session idea with us.
 
 How to make your speaker proposal stand out
 -------------------------------------------
+Here are some tips to keep in mind as you refine your speaker proposal.
