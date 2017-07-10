@@ -25,5 +25,5 @@ How to make your speaker proposal stand out
 -------------------------------------------
 Here are some tips to keep in mind as you refine your speaker proposal.
 
-Put your audience first
-------------------------
+Put your audience first and second
+----------------------------------
