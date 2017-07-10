@@ -13,3 +13,6 @@ and we're looking for new voices to lead our breakout sessions.
 
 Your stories are unique, and having lived them, 
 you're the best person to share your insights with others.
+
+With our submission deadline approaching on July 28, 
+we're inviting you to share your session idea with us.
