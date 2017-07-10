@@ -18,3 +18,6 @@ If you're new to speaking, don't let that stop you.
 
 With our submission deadline approaching on July 28, 
 we're inviting you to share your session idea with us.
+
+How to make your speaker proposal stand out
+-------------------------------------------
