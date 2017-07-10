@@ -1,7 +1,7 @@
 # testRepository
 My first repository for training.
 
-I will use this repository for training.
+I will use this repository for training and something else.
 
 Post from "The GitHub Blog":
 --------------------------
