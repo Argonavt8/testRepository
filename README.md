@@ -15,3 +15,6 @@ Your stories are unique, and having lived them,
 you're the best person to share your insights with others.
 
 If you're new to speaking, don't let that stop you.
+
+With our submission deadline approaching on July 28, 
+we're inviting you to share your session idea with us.
