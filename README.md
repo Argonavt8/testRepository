@@ -3,6 +3,8 @@ My first repository for training.
 
 I will use this repository for training and something else.
 
+Its good.
+
 Post from "The GitHub Blog":
 --------------------------
 Speak at GitHub Universe: three weeks left to submit proposals:
