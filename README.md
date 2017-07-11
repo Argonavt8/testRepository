@@ -27,3 +27,6 @@ Here are some tips to keep in mind as you refine your speaker proposal.
 
 Put your audience first and second
 ----------------------------------
+
+
+Even if it’s a first-person experience, tell it to those individuals in a way that helps them connect with it.
