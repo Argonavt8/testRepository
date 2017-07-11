@@ -33,4 +33,4 @@ Make them feel like they’re a part of your experience by framing it in terms o
 Set the stakes
 -------------------
 Establish a problem you’re addressing and why people should care.  This is separate from the solution.
-
+After your 
