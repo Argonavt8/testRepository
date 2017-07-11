@@ -32,5 +32,5 @@ Make them feel like they’re a part of your experience by framing it in terms o
 
 Set the stakes
 -------------------
-
+After your audience understands the problem, help them understand how to approach it and what’s novel about your approach.
 For more tips, check out Sarah Mei’s “What Your Conference Proposal is Missing”.
