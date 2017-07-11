@@ -34,3 +34,4 @@ Set the stakes
 -------------------
 After your audience understands the problem, help them understand how to approach it and what’s novel about your approach.
 For more tips, check out Sarah Mei’s “What Your Conference Proposal is Missing”.
+There were a lot of memorable sessions last year, but these ones stood out as particularly impactful.
