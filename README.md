@@ -32,5 +32,6 @@ Make them feel like they’re a part of your experience by framing it in terms o
 
 Set the stakes
 -------------------
-Establish a problem you’re addressing and why people should care.  This is separate from the solution.
+Establish a problem you’re addressing and why people should care.  This is separate from the solution. 
+Your audience will only care about a solution if you set up the problem in a way that helps them understand it and apply it to their experiences.
 
