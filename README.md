@@ -27,3 +27,4 @@ Here are some tips to keep in mind as you refine your speaker proposal.
 
 Put your audience first and second
 ----------------------------------
+Identify who can benefit most from your story.
