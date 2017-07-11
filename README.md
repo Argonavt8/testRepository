@@ -30,5 +30,7 @@ Put your audience first and second
 Identify who can benefit most from your story. Even if it’s a first-person experience, tell it to those individuals in a way that helps them connect with it.
 Make them feel like they’re a part of your experience by framing it in terms of   similar experiences they might have and what they can do with the information you’re sharing.
 
+Set the stakes
+-------------------
+Establish a problem you’re addressing and why people should care. 
 
-88
