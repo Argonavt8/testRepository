@@ -31,4 +31,6 @@ Identify who can benefit most from your story. Even if it’s a first-person exp
 Make them feel like they’re a part of your experience by framing it in terms of   similar experiences they might have and what they can do with the information you’re sharing.
 
 Set the stakes
-555555555555
+-------------------
+
+For more tips, check out Sarah Mei’s “What Your Conference Proposal is Missing”.
